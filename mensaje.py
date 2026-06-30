@@ -8,3 +8,9 @@ class Mensaje:
         self.__remitente = remitente
         print(">> Objeto Mensaje creado.")
 
+    def __str__(self):
+        """
+        Devuelve una representación en cadena del objeto,
+        ideal para imprimir o mostrar en la interfaz.
+        """
+        return f'Remitente: {self.__remitente}\nMensaje: "{self.__texto}"'
