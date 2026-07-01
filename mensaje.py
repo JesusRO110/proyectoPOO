@@ -14,3 +14,10 @@ class Mensaje:
         ideal para imprimir o mostrar en la interfaz.
         """
         return f'Remitente: {self.__remitente}\nMensaje: "{self.__texto}"'
+
+    def __repr__(self):
+        """
+        Devuelve una representación oficial del objeto,
+        ideal para depuración.
+        """
+        return f"Mensaje(texto='{self.__texto}', remitente='{self.__remitente}')"

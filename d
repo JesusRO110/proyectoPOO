@@ -1,0 +1,29 @@
+[33mcommit ae5865282d37da6fd962de5c99c22f8cee8451d3[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: JesusRO110 <jesus.raamirez93@gmail.com>
+Date:   Tue Jun 30 12:43:36 2026 -0600
+
+    Se agrego la investigacion y la guia de ejecucion para el profesor al archivo Readme.md
+
+[33mcommit 7b20bfbda0ac93fcd218751d5c6b58f9f7260bff[m
+Author: JesusRO110 <jesus.raamirez93@gmail.com>
+Date:   Tue Jun 30 11:46:42 2026 -0600
+
+    se agrega el manejo de interfaz
+
+[33mcommit 2390b6b69246818a8346575e68852e5e57672c9b[m
+Author: JesusRO110 <jesus.raamirez93@gmail.com>
+Date:   Tue Jun 30 10:13:46 2026 -0600
+
+    Se agregan los archivos mensajes de C++
+
+[33mcommit 56bbe1443ca46f6840ea74715ce98872567395fe[m
+Author: JesusRO110 <jesus.raamirez93@gmail.com>
+Date:   Mon Jun 29 14:14:10 2026 -0600
+
+    se agregan interfaz y el main, proyecto python listo
+
+[33mcommit 8e2f257e19a51613c65cb4371d1f7f8362211e80[m
+Author: JesusRO110 <jesus.raamirez93@gmail.com>
+Date:   Mon Jun 29 12:58:55 2026 -0600
+
+    Se agrega mensaje.py comenzamos con python
